@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="master" Class="DataClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=TAREKGROUP-PC\SQLEXPRESS;Initial Catalog=master;Integrated Security=True" SettingsObjectName="AssemblerStudioDevelop.Properties.Settings" SettingsPropertyName="masterConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.T" Member="Ts">
+    <Type Name="T">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NText" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="Requist" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

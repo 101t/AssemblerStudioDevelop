@@ -1,0 +1,258 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{16039EAB-7F83-4506-8C16-633E1756D430}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>AssemblerStudioDevelop</RootNamespace>
+    <AssemblyName>AssemblerStudioDevelop</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Resources\Golden Wallpaper %28438%29.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="VistaBridgeControls, Version=1.4.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\VistaBridgeControls.dll</HintPath>
+    </Reference>
+    <Reference Include="VistaBridgeLibrary, Version=1.4.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\VistaBridgeLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Forms\ExecutionViewer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ExecutionViewer.Designer.cs">
+      <DependentUpon>ExecutionViewer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SyntaxBuilder\Builder.cs" />
+    <Compile Include="Forms\ChildForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ChildForm.Designer.cs">
+      <DependentUpon>ChildForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\About.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\About.Designer.cs">
+      <DependentUpon>About.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FileProperties.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FileProperties.Designer.cs">
+      <DependentUpon>FileProperties.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SyntaxBuilder\HashTable.cs" />
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\MottoSplash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\MottoSplash.Designer.cs">
+      <DependentUpon>MottoSplash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\NewProjectForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\NewProjectForm.Designer.cs">
+      <DependentUpon>NewProjectForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FindMenuStrip\MenuStrip.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="FindMenuStrip\MenuStrip.designer.cs">
+      <DependentUpon>MenuStrip.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FindMenuStrip\PopedContainer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="FindMenuStrip\PopedContainer.designer.cs">
+      <DependentUpon>PopedContainer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FindMenuStrip\PoperContainer.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="FindMenuStrip\PoperContainer.designer.cs">
+      <DependentUpon>PoperContainer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Processing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Processing.Designer.cs">
+      <DependentUpon>Processing.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SyntaxBuilder\OPTAB.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Forms\StartPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\StartPage.Designer.cs">
+      <DependentUpon>StartPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SyntaxBuilder\Registers.cs" />
+    <Compile Include="SyntaxBuilder\SYMTAB.cs" />
+    <Compile Include="SyntaxBuilder\SyntaxException.cs" />
+    <Compile Include="Syntax\SyntaxRichTextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Syntax\SyntaxRichTextBox.Designer.cs">
+      <DependentUpon>SyntaxRichTextBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Syntax\SyntaxSettings.cs" />
+    <EmbeddedResource Include="Forms\ExecutionViewer.resx">
+      <DependentUpon>ExecutionViewer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ChildForm.resx">
+      <DependentUpon>ChildForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\About.resx">
+      <DependentUpon>About.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FileProperties.resx">
+      <DependentUpon>FileProperties.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\MottoSplash.resx">
+      <DependentUpon>MottoSplash.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\NewProjectForm.resx">
+      <DependentUpon>NewProjectForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FindMenuStrip\MenuStrip.resx">
+      <DependentUpon>MenuStrip.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FindMenuStrip\PopedContainer.resx">
+      <DependentUpon>PopedContainer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Processing.resx">
+      <DependentUpon>Processing.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Forms\StartPage.resx">
+      <DependentUpon>StartPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Syntax\SyntaxRichTextBox.resx">
+      <DependentUpon>SyntaxRichTextBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\document.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder-horizontal-open.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cross.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\information-frame.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\copy.png" />
+    <None Include="Resources\deselection-deselect.png" />
+    <None Include="Resources\FileProperties.png" />
+    <Content Include="Resources\find16.png" />
+    <Content Include="Resources\Golden Wallpaper %28438%29.ico" />
+    <None Include="Resources\Start Page.png" />
+    <Content Include="Resources\Instructions.txt" />
+    <None Include="Resources\selection-select.png" />
+    <None Include="Resources\paste.png" />
+    <None Include="Resources\scissors.png" />
+    <None Include="Resources\save as.png" />
+    <None Include="Resources\redo16.gif" />
+    <None Include="Resources\Page Setup.gif" />
+    <None Include="Resources\save16.gif" />
+    <None Include="Resources\Save 16.png" />
+    <None Include="Resources\print16.png" />
+    <None Include="Resources\printpreview16.png" />
+    <None Include="Resources\start16.png" />
+    <Content Include="Resources\StartBe.PNG" />
+    <None Include="Resources\Tarek Group Ico Web.jpg" />
+    <None Include="Resources\undo16.gif" />
+    <Content Include="Resources\zxoscq3vu.jpg" />
+    <Content Include="Resources\zxoscq3vu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{3259AA49-8AA1-44D3-9025-A0B520596A8C}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,82 @@
+c:\users\tarek group\documents\visual studio 2010\Projects\AssemblerStudioDevelop\AssemblerStudioDevelop\bin\Debug\AssemblerStudioDevelop.exe
+c:\users\tarek group\documents\visual studio 2010\Projects\AssemblerStudioDevelop\AssemblerStudioDevelop\bin\Debug\AssemblerStudioDevelop.pdb
+c:\users\tarek group\documents\visual studio 2010\Projects\AssemblerStudioDevelop\AssemblerStudioDevelop\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\tarek group\documents\visual studio 2010\Projects\AssemblerStudioDevelop\AssemblerStudioDevelop\obj\x86\Debug\AssemblerStudioDevelop.Properties.Resources.resources
+c:\users\tarek group\documents\visual studio 2010\Projects\AssemblerStudioDevelop\AssemblerStudioDevelop\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\tarek group\documents\visual studio 2010\Projects\AssemblerStudioDevelop\AssemblerStudioDevelop\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\tarek group\documents\visual studio 2010\Projects\AssemblerStudioDevelop\AssemblerStudioDevelop\obj\x86\Debug\AssemblerStudioDevelop.exe
+c:\users\tarek group\documents\visual studio 2010\Projects\AssemblerStudioDevelop\AssemblerStudioDevelop\obj\x86\Debug\AssemblerStudioDevelop.pdb
+c:\users\tarek group\documents\visual studio 2010\Projects\AssemblerStudioDevelop\AssemblerStudioDevelop\obj\x86\Debug\AssemblerStudioDevelop.MainForm.resources
+C:\Users\Tarek Group\Documents\Visual Studio 2010\Projects\AssemblerStudioDevelop\AssemblerStudioDevelop\obj\x86\Debug\AssemblerStudioDevelop.SyntaxRichTextBox.resources
+C:\Users\Tarek Group\Documents\Visual Studio 2010\Projects\AssemblerStudioDevelop\AssemblerStudioDevelop\obj\x86\Debug\AssemblerStudioDevelop.About.resources
+C:\Users\Tarek Group\Documents\Visual Studio 2010\Projects\AssemblerStudioDevelop\AssemblerStudioDevelop\obj\x86\Debug\AssemblerStudioDevelop.MottoSplash.resources
+C:\Users\Tarek Group\Documents\Visual Studio 2010\Projects\AssemblerStudioDevelop\AssemblerStudioDevelop\obj\x86\Debug\AssemblerStudioDevelop.ChildForm.resources
+C:\Users\Tarek Group\Documents\Visual Studio 2010\Projects\AssemblerStudioDevelop\AssemblerStudioDevelop\obj\x86\Debug\AssemblerStudioDevelop.StartPage.resources
+C:\Users\Tarek Group\Documents\Visual Studio 2010\Projects\AssemblerStudioDevelop\AssemblerStudioDevelop\obj\x86\Debug\AssemblerStudioDevelop.NewProjectForm.resources
+C:\Users\Tarek Group\Documents\Visual Studio 2010\Projects\AssemblerStudioDevelop\AssemblerStudioDevelop\obj\x86\Debug\AssemblerStudioDevelop.MenuStrip.resources
+C:\Users\Tarek Group\Documents\Visual Studio 2010\Projects\AssemblerStudioDevelop\AssemblerStudioDevelop\obj\x86\Debug\AssemblerStudioDevelop.PopedContainer.resources
+C:\Users\Tarek Group\Documents\Visual Studio 2010\Projects\AssemblerStudioDevelop\AssemblerStudioDevelop\obj\x86\Debug\AssemblerStudioDevelop.FileProperties.resources
+C:\Users\Tarek Group\Documents\Visual Studio 2010\Projects\AssemblerStudioDevelop\AssemblerStudioDevelop\obj\x86\Debug\AssemblerStudioDevelop.Processing.resources
+C:\Users\Tarek Group\Documents\Visual Studio 2010\Projects\AssemblerStudioDevelop\AssemblerStudioDevelop\obj\x86\Debug\AssemblerStudioDevelop.ExecutionViewer.resources
+I:\Atomic Reactors Projects\AssemblerStudioDevelop\AssemblerStudioDevelop\obj\x86\Debug\AssemblerStudioDevelop.exe
+I:\Atomic Reactors Projects\AssemblerStudioDevelop\AssemblerStudioDevelop\obj\x86\Debug\AssemblerStudioDevelop.pdb
+E:\Atomic Reactors Projects\AssemblerStudioDevelop\AssemblerStudioDevelop\obj\x86\Debug\AssemblerStudioDevelop.exe
+E:\Atomic Reactors Projects\AssemblerStudioDevelop\AssemblerStudioDevelop\obj\x86\Debug\AssemblerStudioDevelop.pdb
+E:\Atomic Reactors Projects\AssemblerStudioDevelop\AssemblerStudioDevelop\bin\Debug\AssemblerStudioDevelop.exe
+E:\Atomic Reactors Projects\AssemblerStudioDevelop\AssemblerStudioDevelop\bin\Debug\AssemblerStudioDevelop.pdb
+E:\Atomic Reactors Projects\AssemblerStudioDevelop\AssemblerStudioDevelop\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Atomic Reactors Projects\AssemblerStudioDevelop\AssemblerStudioDevelop\obj\x86\Debug\AssemblerStudioDevelop.ExecutionViewer.resources
+E:\Atomic Reactors Projects\AssemblerStudioDevelop\AssemblerStudioDevelop\obj\x86\Debug\AssemblerStudioDevelop.ChildForm.resources
+E:\Atomic Reactors Projects\AssemblerStudioDevelop\AssemblerStudioDevelop\obj\x86\Debug\AssemblerStudioDevelop.About.resources
+E:\Atomic Reactors Projects\AssemblerStudioDevelop\AssemblerStudioDevelop\obj\x86\Debug\AssemblerStudioDevelop.FileProperties.resources
+E:\Atomic Reactors Projects\AssemblerStudioDevelop\AssemblerStudioDevelop\obj\x86\Debug\AssemblerStudioDevelop.MainForm.resources
+E:\Atomic Reactors Projects\AssemblerStudioDevelop\AssemblerStudioDevelop\obj\x86\Debug\AssemblerStudioDevelop.MottoSplash.resources
+E:\Atomic Reactors Projects\AssemblerStudioDevelop\AssemblerStudioDevelop\obj\x86\Debug\AssemblerStudioDevelop.NewProjectForm.resources
+E:\Atomic Reactors Projects\AssemblerStudioDevelop\AssemblerStudioDevelop\obj\x86\Debug\AssemblerStudioDevelop.MenuStrip.resources
+E:\Atomic Reactors Projects\AssemblerStudioDevelop\AssemblerStudioDevelop\obj\x86\Debug\AssemblerStudioDevelop.PopedContainer.resources
+E:\Atomic Reactors Projects\AssemblerStudioDevelop\AssemblerStudioDevelop\obj\x86\Debug\AssemblerStudioDevelop.Processing.resources
+E:\Atomic Reactors Projects\AssemblerStudioDevelop\AssemblerStudioDevelop\obj\x86\Debug\AssemblerStudioDevelop.Properties.Resources.resources
+E:\Atomic Reactors Projects\AssemblerStudioDevelop\AssemblerStudioDevelop\obj\x86\Debug\AssemblerStudioDevelop.StartPage.resources
+E:\Atomic Reactors Projects\AssemblerStudioDevelop\AssemblerStudioDevelop\obj\x86\Debug\AssemblerStudioDevelop.SyntaxRichTextBox.resources
+E:\Atomic Reactors Projects\AssemblerStudioDevelop\AssemblerStudioDevelop\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Atomic Reactors Projects\AssemblerStudioDevelop\AssemblerStudioDevelop\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\Atomic Reactors Projects\AssemblerStudioDevelop\AssemblerStudioDevelop\obj\x86\Debug\AssemblerStudioDevelop.exe
+J:\Atomic Reactors Projects\AssemblerStudioDevelop\AssemblerStudioDevelop\obj\x86\Debug\AssemblerStudioDevelop.pdb
+J:\Atomic Reactors Projects\AssemblerStudioDevelop\AssemblerStudioDevelop\bin\Debug\AssemblerStudioDevelop.exe
+J:\Atomic Reactors Projects\AssemblerStudioDevelop\AssemblerStudioDevelop\bin\Debug\AssemblerStudioDevelop.pdb
+J:\Atomic Reactors Projects\AssemblerStudioDevelop\AssemblerStudioDevelop\obj\x86\Debug\AssemblerStudioDevelop.csprojResolveAssemblyReference.cache
+J:\Atomic Reactors Projects\AssemblerStudioDevelop\AssemblerStudioDevelop\obj\x86\Debug\AssemblerStudioDevelop.ExecutionViewer.resources
+J:\Atomic Reactors Projects\AssemblerStudioDevelop\AssemblerStudioDevelop\obj\x86\Debug\AssemblerStudioDevelop.ChildForm.resources
+J:\Atomic Reactors Projects\AssemblerStudioDevelop\AssemblerStudioDevelop\obj\x86\Debug\AssemblerStudioDevelop.About.resources
+J:\Atomic Reactors Projects\AssemblerStudioDevelop\AssemblerStudioDevelop\obj\x86\Debug\AssemblerStudioDevelop.FileProperties.resources
+J:\Atomic Reactors Projects\AssemblerStudioDevelop\AssemblerStudioDevelop\obj\x86\Debug\AssemblerStudioDevelop.MainForm.resources
+J:\Atomic Reactors Projects\AssemblerStudioDevelop\AssemblerStudioDevelop\obj\x86\Debug\AssemblerStudioDevelop.MottoSplash.resources
+J:\Atomic Reactors Projects\AssemblerStudioDevelop\AssemblerStudioDevelop\obj\x86\Debug\AssemblerStudioDevelop.NewProjectForm.resources
+J:\Atomic Reactors Projects\AssemblerStudioDevelop\AssemblerStudioDevelop\obj\x86\Debug\AssemblerStudioDevelop.MenuStrip.resources
+J:\Atomic Reactors Projects\AssemblerStudioDevelop\AssemblerStudioDevelop\obj\x86\Debug\AssemblerStudioDevelop.PopedContainer.resources
+J:\Atomic Reactors Projects\AssemblerStudioDevelop\AssemblerStudioDevelop\obj\x86\Debug\AssemblerStudioDevelop.Processing.resources
+J:\Atomic Reactors Projects\AssemblerStudioDevelop\AssemblerStudioDevelop\obj\x86\Debug\AssemblerStudioDevelop.Properties.Resources.resources
+J:\Atomic Reactors Projects\AssemblerStudioDevelop\AssemblerStudioDevelop\obj\x86\Debug\AssemblerStudioDevelop.StartPage.resources
+J:\Atomic Reactors Projects\AssemblerStudioDevelop\AssemblerStudioDevelop\obj\x86\Debug\AssemblerStudioDevelop.SyntaxRichTextBox.resources
+J:\Atomic Reactors Projects\AssemblerStudioDevelop\AssemblerStudioDevelop\obj\x86\Debug\AssemblerStudioDevelop.csproj.GenerateResource.Cache
+H:\Atomic Reactors Projects\AssemblerStudioDevelop\AssemblerStudioDevelop\obj\x86\Debug\AssemblerStudioDevelop.exe
+H:\Atomic Reactors Projects\AssemblerStudioDevelop\AssemblerStudioDevelop\obj\x86\Debug\AssemblerStudioDevelop.pdb
+H:\Atomic Reactors Projects\AssemblerStudioDevelop\AssemblerStudioDevelop\bin\Debug\AssemblerStudioDevelop.exe
+H:\Atomic Reactors Projects\AssemblerStudioDevelop\AssemblerStudioDevelop\bin\Debug\AssemblerStudioDevelop.pdb
+H:\Atomic Reactors Projects\AssemblerStudioDevelop\AssemblerStudioDevelop\obj\x86\Debug\AssemblerStudioDevelop.csprojResolveAssemblyReference.cache
+H:\Atomic Reactors Projects\AssemblerStudioDevelop\AssemblerStudioDevelop\obj\x86\Debug\AssemblerStudioDevelop.ExecutionViewer.resources
+H:\Atomic Reactors Projects\AssemblerStudioDevelop\AssemblerStudioDevelop\obj\x86\Debug\AssemblerStudioDevelop.ChildForm.resources
+H:\Atomic Reactors Projects\AssemblerStudioDevelop\AssemblerStudioDevelop\obj\x86\Debug\AssemblerStudioDevelop.About.resources
+H:\Atomic Reactors Projects\AssemblerStudioDevelop\AssemblerStudioDevelop\obj\x86\Debug\AssemblerStudioDevelop.FileProperties.resources
+H:\Atomic Reactors Projects\AssemblerStudioDevelop\AssemblerStudioDevelop\obj\x86\Debug\AssemblerStudioDevelop.MainForm.resources
+H:\Atomic Reactors Projects\AssemblerStudioDevelop\AssemblerStudioDevelop\obj\x86\Debug\AssemblerStudioDevelop.MottoSplash.resources
+H:\Atomic Reactors Projects\AssemblerStudioDevelop\AssemblerStudioDevelop\obj\x86\Debug\AssemblerStudioDevelop.NewProjectForm.resources
+H:\Atomic Reactors Projects\AssemblerStudioDevelop\AssemblerStudioDevelop\obj\x86\Debug\AssemblerStudioDevelop.MenuStrip.resources
+H:\Atomic Reactors Projects\AssemblerStudioDevelop\AssemblerStudioDevelop\obj\x86\Debug\AssemblerStudioDevelop.PopedContainer.resources
+H:\Atomic Reactors Projects\AssemblerStudioDevelop\AssemblerStudioDevelop\obj\x86\Debug\AssemblerStudioDevelop.Processing.resources
+H:\Atomic Reactors Projects\AssemblerStudioDevelop\AssemblerStudioDevelop\obj\x86\Debug\AssemblerStudioDevelop.Properties.Resources.resources
+H:\Atomic Reactors Projects\AssemblerStudioDevelop\AssemblerStudioDevelop\obj\x86\Debug\AssemblerStudioDevelop.StartPage.resources
+H:\Atomic Reactors Projects\AssemblerStudioDevelop\AssemblerStudioDevelop\obj\x86\Debug\AssemblerStudioDevelop.SyntaxRichTextBox.resources
+H:\Atomic Reactors Projects\AssemblerStudioDevelop\AssemblerStudioDevelop\obj\x86\Debug\AssemblerStudioDevelop.csproj.GenerateResource.Cache
+G:\Atomic Reactors Projects\AssemblerStudioDevelop\AssemblerStudioDevelop\obj\x86\Debug\AssemblerStudioDevelop.exe
+G:\Atomic Reactors Projects\AssemblerStudioDevelop\AssemblerStudioDevelop\obj\x86\Debug\AssemblerStudioDevelop.pdb

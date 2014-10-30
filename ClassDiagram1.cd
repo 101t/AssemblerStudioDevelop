@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AssemblerStudioDevelop.MenuStrip" Collapsed="true">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACgAAABEDAAAFAqAACgAAAGAIAYABAAsAAgABMBDAA=</HashCode>
+      <FileName>FindMenuStrip\MenuStrip.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AssemblerStudioDevelop.PopedContainer" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAgAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FindMenuStrip\PopedContainer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AssemblerStudioDevelop.PoperContainer" Collapsed="true">
+    <Position X="3" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgACAAgAAAAECAAAASAAAEAACAAAACAQAIAYA=</HashCode>
+      <FileName>FindMenuStrip\PoperContainer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AssemblerStudioDevelop.About" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kIAAAAgAACAgCAUAAACAAAADAAAAEIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Forms\About.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AssemblerStudioDevelop.ChildForm" Collapsed="true">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAQEACIhCQAQIQCQACAABCCwQIAAAZABUAAQAAEhgA=</HashCode>
+      <FileName>Forms\ChildForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AssemblerStudioDevelop.ExecutionViewer" Collapsed="true">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAJACAAAAAAAACAABACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Forms\ExecutionViewer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AssemblerStudioDevelop.FileProperties" Collapsed="true">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIBAAECEAAFAAAACgAAACEAABAAAAAgAAAAAAAAQ=</HashCode>
+      <FileName>Forms\FileProperties.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AssemblerStudioDevelop.MottoSplash" Collapsed="true">
+    <Position X="6.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAACAAAACAAAAIAAAIAgAAAAAAAA=</HashCode>
+      <FileName>Forms\MottoSplash.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AssemblerStudioDevelop.NewProjectForm" Collapsed="true">
+    <Position X="8.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQBAAAECAAABAAAACAAAACAAA4QAAAAAAAAABAAAA=</HashCode>
+      <FileName>Forms\NewProjectForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AssemblerStudioDevelop.Processing" Collapsed="true">
+    <Position X="4.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAQACAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Forms\Processing.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AssemblerStudioDevelop.StartPage" Collapsed="true">
+    <Position X="4.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIgBAKAAAAAAAPyBAAACAIAkAgAAAAAAAQAAAAA=</HashCode>
+      <FileName>Forms\StartPage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AssemblerStudioDevelop.MainForm" Collapsed="true">
+    <Position X="4.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>xZCzhv0ggKEAEABLQGC68N8TCIpyQcigokwAxjABQFM=</HashCode>
+      <FileName>MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AssemblerStudioDevelop.Program" Collapsed="true">
+    <Position X="6.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AssemblerStudioDevelop.SyntaxRichTextBox" Collapsed="true">
+    <Position X="3" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAKAAAgCAAACQBAACBAgAYgAAkAAAQAAQDAA=</HashCode>
+      <FileName>Syntax\SyntaxRichTextBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AssemblerStudioDevelop.SyntaxList" Collapsed="true">
+    <Position X="10" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAQ=</HashCode>
+      <FileName>Syntax\SyntaxSettings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AssemblerStudioDevelop.SyntaxSettings" Collapsed="true">
+    <Position X="4.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQABBEACAIAAEAAAAACABICAAiAAwgACCAMEUAgAA=</HashCode>
+      <FileName>Syntax\SyntaxSettings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AssemblerStudioDevelop.Builder" Collapsed="true">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAIAAEAAAAEAAAAAAAAQAAAAAAAEgCAAgQAA=</HashCode>
+      <FileName>SyntaxBuilder\Builder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AssemblerStudioDevelop.HashTable" Collapsed="true">
+    <Position X="3" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEBARAAIAIAAAAAAAAAAAAIAAAATAAAACAgKgIgA=</HashCode>
+      <FileName>SyntaxBuilder\HashTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AssemblerStudioDevelop.OPTAB" Collapsed="true">
+    <Position X="10" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAEAAQAAAAAAAgAAAAAAAACAAAAAAQ=</HashCode>
+      <FileName>SyntaxBuilder\OPTAB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AssemblerStudioDevelop.Registers" Collapsed="true">
+    <Position X="8.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAEAAQAAAAAAAAAAAAAAiAAAAAAA=</HashCode>
+      <FileName>SyntaxBuilder\Registers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AssemblerStudioDevelop.SYMTAB" Collapsed="true">
+    <Position X="6.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAEAAIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SyntaxBuilder\SYMTAB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AssemblerStudioDevelop.SyntaxException" Collapsed="true">
+    <Position X="8.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SyntaxBuilder\SyntaxException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AssemblerStudioDevelop.Properties.Resources" Collapsed="true">
+    <Position X="10" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAEgAAABAABAAAAAwBEAAAAwcIEKIAoAgDAEAgIIQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AssemblerStudioDevelop.Properties.Settings" Collapsed="true">
+    <Position X="3" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAQAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
