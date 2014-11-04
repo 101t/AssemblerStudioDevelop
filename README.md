@@ -15,7 +15,7 @@ Leland Beck in his book 'System Software' to explain the concepts of assemblers,
 operating systems. SIC/XE,(the XE stands for Extra Equipment), is an extension of SIC which has higher 
 memory, greater number of registers and additional instructions. 
 
-## Sample program code
+## Sample code
 sample SIC and SIC XE assembly code:
 
     LDA FIVE
