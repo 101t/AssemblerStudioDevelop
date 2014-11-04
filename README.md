@@ -28,7 +28,7 @@ sample SIC and SIC XE assembly code:
     CHARZ BYTE C'Z'
     C1 RESB 1
 
-You may find sample code [here](https://github.com/tarek-aec/AssemblerStudioDevelop/blob/master/bin/Debug/Assempler%20sic%20xe.txt) to test Assembler Studio Develop.
+You may find sample code [here](https://github.com/tarek-aec/AssemblerStudioDevelop/blob/master/bin/Debug/SIC%20XE.txt) to test Assembler Studio Develop.
 
 ## License
 Assembler Studio Develop project licensed under [MIT](http://opensource.org/licenses/MIT) license.
