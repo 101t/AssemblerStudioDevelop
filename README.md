@@ -1,4 +1,4 @@
-AssemblerStudioDevelop
+Assembler Studio Develop
 ======================
 
 Assembler Studio Develop was the assembly editor for SIC and SIC XE machines make analysis and highlighting.
