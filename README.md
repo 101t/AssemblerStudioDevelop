@@ -4,7 +4,7 @@ Assembler Studio Develop
 Assembler Studio Develop was the assembly editor and simple IDE (Integrated Development Environment) for SIC and SIC XE machines make building and highlighting code.
 
 ## Technology Stack
-- This project developed in C# using Microsoft 3.5 .Net Framework
+- This project developed in C# using Microsoft .Net 3.5 Framework
 - Microsoft Visual Studio 2010
 - Highliter RichTextBox Component and UserControl
 - MDI Windows Form Application
