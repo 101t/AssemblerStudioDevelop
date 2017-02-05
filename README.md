@@ -17,7 +17,7 @@ memory, greater number of registers and additional instructions.
 
 ## Sample code
 sample SIC and SIC XE assembly code:
-
+```assembly
     LDA FIVE
     STA ALPHA
     LDCH CHARZ
@@ -27,7 +27,7 @@ sample SIC and SIC XE assembly code:
     FIVE WORD 5
     CHARZ BYTE C'Z'
     C1 RESB 1
-
+```
 You may find sample code [here](https://github.com/tarek-aec/AssemblerStudioDevelop/blob/master/bin/Debug/SIC%20XE.txt) to test Assembler Studio Develop.
 
 ## License
